@@ -1,6 +1,5 @@
 
-*.png
-*.jpg
+
 *.gz
 cycle gan/summer2winter_yosemite/.DS_Store
 cycle gan/summer2winter_yosemite/summer/.DS_Store
@@ -13,3 +12,4 @@ gan mnist/data/MNIST/raw/t10k-labels-idx1-ubyte
 gan mnist/data/MNIST/raw/t10k-labels-idx1-ubyte
 gan mnist/data/MNIST/raw/train-images-idx3-ubyte
 gan mnist/data/MNIST/raw/train-labels-idx1-ubyte
+*.jpg
